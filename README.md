@@ -1,8 +1,8 @@
 Starter project
-Jekyll / Jade / GulpJS / Sass / Browser-sync
+Jekyll / Pug / GulpJS / Sass / Browser-sync
 ============================================
 
-A starter project including full setup for Jekyll, GulpJS, SASS, AutoPrefixer, Jade &amp; BrowserSync
+A starter project including full setup for Jekyll, GulpJS, SASS, AutoPrefixer, Pug &amp; BrowserSync
 
 ## System Preparation
 
